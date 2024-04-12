@@ -19,7 +19,4 @@ Live demo [_here_](https://christianscholtysik.github.io/Welcome-to-Bon-Hotel/).
 
 ## Screenshots
 
-![Example screenshot](./assets/img/1.jpg)
-![Example screenshot](./assets/img/2.jpg)
-![Example screenshot](./assets/img/3.jpg)
-![Example screenshot](./assets/img/4.jpg)
+![Example screenshot](./assets/img/Welcome-to-Bon-Hotel.png)
